@@ -1,0 +1,5 @@
+{
+  "name": "AI Guided Learning Platform",
+  "description": "An interactive learning application where users engage with an AI tutor through a chat interface. Courses and AI behavior are defined by a structured configuration, guiding users through lesson plans.",
+  "requestFramePermissions": []
+}
